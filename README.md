@@ -34,6 +34,8 @@ The only two keywords you don't want to change are CONNECT ME and DISCONNECT. CO
 
 Also, the initial script starts with "So you want to learn about Esther? ..." but of course you'll want to change it. You can edit it in the script.js file.
 
+There are optional special keywords NOT UNDERSTOOD 1, NOT UNDERSTOOD 2, etc. You can set them to customize a message sent by the bot to provide additional info or help.
+
 ##Add line breaks to your messages
 If you want your bot's responses to be broken into different bubbles you'll need to add \n.
 Here's an example: Hi there!\nI’m the personal bot of Esther, a Product Marketer from San Francisco.

@@ -17,10 +17,9 @@
     "BRING IT ON": "TBD",
     "I LOVE YOU": "Oh! Don't make me blush!☺️",
     "I HATE YOU ": "I'm sorry you feel that way 😔.",
-    "NOT UNDERSTOOD 1": " \n![what](https://raw.githubusercontent.com/ondrejproch/OndrejBot/master/img/understand2.gif)",
-    "NOT UNDERSTOOD 2": " \n![whatnow](https://raw.githubusercontent.com/ondrejproch/OndrejBot/master/img/understand3.gif)",
-    "NOT UNDERSTOOD 3": " \n![whatagain](https://raw.githubusercontent.com/ondrejproch/OndrejBot/master/img/understand1.gif)",
-    "NOT UNDERSTOOD 4": " \n![whatseriously](https://raw.githubusercontent.com/ondrejproch/OndrejBot/master/img/understand4.gif)",
+    "NOT UNDERSTOOD 1": "maybe try hello? \n![what](https://raw.githubusercontent.com/ondrejproch/OndrejBot/master/img/understand2.gif)",
+    "NOT UNDERSTOOD 2": "I can only react to those buttons I offer for now \n![whatnow](https://raw.githubusercontent.com/ondrejproch/OndrejBot/master/img/understand3.gif)",
+    "NOT UNDERSTOOD 4": " Really?\n![whatseriously](https://raw.githubusercontent.com/ondrejproch/OndrejBot/master/img/understand4.gif)",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, OndrejBot is back."
 }

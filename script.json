@@ -17,10 +17,10 @@
     "BRING IT ON": "TBD",
     "I LOVE YOU": "Oh! Don't make me blush!☺️",
     "I HATE YOU ": "I'm sorry you feel that way 😔.",
-    "NOT UNDERSTOOD 1": "\n![what1](https://raw.githubusercontent.com/ondrejproch/OndrejBot/master/img/understand2.gif) \n maybe try one of the previous buttons?",
-    "NOT UNDERSTOOD 2": "\n![what2](https://raw.githubusercontent.com/ondrejproch/OndrejBot/master/img/understand3.gif) \n maybe try one of the previous buttons?",
-    "NOT UNDERSTOOD 3": "\n![what3](https://raw.githubusercontent.com/ondrejproch/OndrejBot/master/img/understand1.gif) \n maybe try one of the previous buttons?",
-    "NOT UNDERSTOOD 4": "\n![what4](https://raw.githubusercontent.com/ondrejproch/OndrejBot/master/img/understand4.gif) \n maybe try one of the previous buttons?",
+    "NOT UNDERSTOOD 1": "\n![what](https://raw.githubusercontent.com/ondrejproch/OndrejBot/master/img/understand2.gif) \n maybe try one of the previous buttons?",
+    "NOT UNDERSTOOD 2": "\n![whatnow](https://raw.githubusercontent.com/ondrejproch/OndrejBot/master/img/understand3.gif) \n maybe try one of the previous buttons?",
+    "NOT UNDERSTOOD 3": "\n![whatagain](https://raw.githubusercontent.com/ondrejproch/OndrejBot/master/img/understand1.gif) \n maybe try one of the previous buttons?",
+    "NOT UNDERSTOOD 4": "\n![whatseriously](https://raw.githubusercontent.com/ondrejproch/OndrejBot/master/img/understand4.gif) \n maybe try one of the previous buttons?",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, OndrejBot is back."
 }

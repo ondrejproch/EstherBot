@@ -37,10 +37,10 @@
     "NOT UNDERSTOOD 5": "Listen here is one more gif I like and then either say hello, click the buttons or go to reddit alright?;) \n![whatsgodeater](https://raw.githubusercontent.com/ondrejproch/OndrejBot/master/img/gifanime.gif)",
     "HTTP://REDDIT.COM": "Yep, I like that one",
     "SHOW ME FACEBOOK": "Alright, but through my master's eyes. Nothing official, just a few shots taken by phone, like this view from floor 15. Alright? \n![view](https://raw.githubusercontent.com/ondrejproch/OndrejBot/master/img/view.jpg) \n%[Deal](postback:deal) %[Restart](postback:restart) %[get in touch](postback:get_in_touch)",
-    "DEAL": "I don't know why this was picked to represent ALL the art in our office, really. A message from my master to me, perhaps? \n![darth](https://raw.githubusercontent.com/ondrejproch/OndrejBot/master/img/darth.jpg) \n%[LESS FAMILY ISSUES](postback:less_family_issues)",
-    "LESS FAMILY ISSUES": "Alright, alright - How about the most favourite place of his? \n![rebase](https://raw.githubusercontent.com/ondrejproch/OndrejBot/master/img/rebase.jpg) \n%[WORK HAPPENS WHERE](postback:work_happens_where)",
-    "WORK HAPPENS WHERE": "Near coffee usually /n![cafe](https://raw.githubusercontent.com/ondrejproch/OndrejBot/master/img/cafe.jpg) \n%[ALTERNATIVE ENERGY SOURCE](postback:alternative_energy_source)",
-    "ALTERNATIVE ENERGY SOURCE": "Provided. \n![sweets](https://raw.githubusercontent.com/ondrejproch/OndrejBot/master/img/sweets.jpg) \n%[ANYTHING ELSE](postback:anything_else)",
+    "DEAL": "I don't know why this was picked to represent ALL the art in our office, really. A message from my master to me, perhaps? \n![darth](https://raw.githubusercontent.com/ondrejproch/OndrejBot/master/img/darth.jpg) \n%[Less family issues](postback:less_family_issues)",
+    "LESS FAMILY ISSUES": "Alright, alright - How about the most favourite place of his? \n![rebase](https://raw.githubusercontent.com/ondrejproch/OndrejBot/master/img/rebase.jpg) \n%[and your desk](postback:and_your_desk)",
+    "AND YOUR DESK": "Near coffee usually \n![cafe](https://raw.githubusercontent.com/ondrejproch/OndrejBot/master/img/cafe.jpg) \n%[Suggar's better](postback:suggar's_better)",
+    "SUGGAR'S BETTER": "Provided. \n![sweets](https://raw.githubusercontent.com/ondrejproch/OndrejBot/master/img/sweets.jpg) \n%[Anything else](postback:anything_else)",
     "ANYTHING ELSE": "I don't know... Just get your camera read in case Ryan Gosling walks by? \n![ryan](https://raw.githubusercontent.com/ondrejproch/OndrejBot/master/img/ryan.jpg) \n%(postback:head_to_career) %[Restart](postback:restart)",
     "DISCONNECT": "Alright, OndrejBot is back."
 }
